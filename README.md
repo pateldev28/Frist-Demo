@@ -1,2 +1,2 @@
 # Frist-Demo
-this is my Frist Git Repostory
+this is my Frist Git Repository
